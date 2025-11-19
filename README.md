@@ -1,6 +1,6 @@
 # Welcome
 My name is Finster, I am a very cool and awesome person :)
-      
+{
       ___                       ___           ___           ___           ___           ___     
      /\  \          ___        /\__\         /\  \         /\  \         /\  \         /\  \    
     /::\  \        /\  \      /::|  |       /::\  \        \:\  \       /::\  \       /::\  \   
@@ -12,3 +12,4 @@ My name is Finster, I am a very cool and awesome person :)
        \/__/    \:\__\         |::/  /     \:\/:/  /     \/__/         \:\ \/__/      |:|\/__/  
                  \/__/         /:/  /       \::/  /                     \:\__\        |:|  |    
                                \/__/         \/__/                       \/__/         \|__|    
+}
